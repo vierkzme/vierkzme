@@ -5,7 +5,7 @@ Thank you for visiting this repository! I'm glad you're interested in exploring 
 Hello! I'm a software developer with a passion for web and mobile app development. I have skills in several programming languages such as Python, JavaScript, and Dart. I'm also proficient in web technologies like HTML, CSS and frameworks like CodeIgniter, Bootstrap and Flutter.
 
 ## Skills
-- Programming Languages: JavaScript, Python, Dart, PHP
+- Programming Languages: JavaScript, Python, Dart
 - Web Technologies: HTML, CSS
 - Frameworks: CodeIgniter, Bootstrap, Flutter
 
