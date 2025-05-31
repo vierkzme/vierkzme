@@ -19,6 +19,13 @@ I believe in solving real-world problems with clean, scalable code and thoughtfu
 
 ---
 
+## 🧾 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vierkzme\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vierkzme\&layout=compact\&theme=tokyonight)
+
+---
+
 ## 🤝 Let's Collaborate!
 
 I'm open to collaborative projects, contributions, and freelance opportunities. Whether you're building something impactful or just want to connect, feel free to reach out!
@@ -28,13 +35,6 @@ I'm open to collaborative projects, contributions, and freelance opportunities. 
 * LinkedIn: [linkedin.com/in/ardy-nugroho-iv99/](https://linkedin.com/in/ardy-nugroho-iv99)
 * Email: [ardyiv99@gmail.com](mailto:ardyiv99@gmail.com)
 * Portfolio: 
-
----
-
-## 🧾 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vierkzme\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vierkzme\&layout=compact\&theme=tokyonight)
 
 ---
 
