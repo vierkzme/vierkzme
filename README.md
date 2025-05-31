@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a s
 * 🧪 Testing: Jest, React Testing Library
 * 📊 Data Analysis: Excel, Python, Power BI
 * 🧰 Tools & DevOps: Git, GitHub, Vercel, Netlify, Docker
-* 📱 Mobile Dev: Flutter (basic), Android Dev (Stechoq Academy)
 
 ---
 
