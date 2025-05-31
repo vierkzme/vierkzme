@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm \[vierkzme]!
+# 🚀 Hi there, I'm \vierkzme!
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a strong foundation in:
 
