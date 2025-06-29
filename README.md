@@ -1,8 +1,6 @@
-<h3 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    👋 Halo, saya vierkzme — Selamat datang di profil GitHub saya! 🚀
-  </marquee>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Hello+I+am+vierkzme;Frontend+Developer;React+%7C+Tailwind+%7C+Next.js" />
+</p>
 
 
 # 🚀 Hi there, I'm Ardy Nugroho!
