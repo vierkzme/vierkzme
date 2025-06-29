@@ -21,8 +21,8 @@ I believe in solving real-world problems with clean, scalable code and thoughtfu
 
 ## 🧾 GitHub Stats
 
-
-
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vierkzme&theme=tokyonight)](https://wakatime.com/@vierkzme)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vierkzme&layout=compact&theme=tokyonight)
 
 ---
 
