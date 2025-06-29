@@ -21,8 +21,9 @@ I believe in solving real-world problems with clean, scalable code and thoughtfu
 
 ## 🧾 GitHub Stats
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vierkzme)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vierkzme\&layout=compact\&theme=tokyonight)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vierkzme&theme=tokyonight)](https://wakatime.com/@vierkzme)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vierkzme&layout=compact&theme=tokyonight)
+
 
 ---
 
@@ -34,7 +35,7 @@ I'm open to collaborative projects, contributions, and freelance opportunities. 
 
 * LinkedIn: [linkedin.com/in/ardy-nugroho-iv99/](https://linkedin.com/in/ardy-nugroho-iv99)
 * Email: [ardyiv99@gmail.com](mailto:ardyiv99@gmail.com)
-* Portfolio: 
+* Portfolio: [PixPort](https://pixport.vercel.app/)
 
 ---
 
