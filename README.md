@@ -1,3 +1,10 @@
+<h3 align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    👋 Halo, saya vierkzme — Selamat datang di profil GitHub saya! 🚀
+  </marquee>
+</h3>
+
+
 # 🚀 Hi there, I'm Ardy Nugroho!
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a strong foundation in:
