@@ -19,10 +19,22 @@ I believe in solving real-world problems with clean, scalable code and thoughtfu
 
 ---
 
-## 🧾 GitHub Stats
+### 🔥 GitHub Stats
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vierkzme&theme=tokyonight)](https://wakatime.com/@vierkzme)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vierkzme&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vierkzme&show_icons=true&theme=tokyonight)
+
+### 🚀 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vierkzme&layout=compact&theme=tokyonight)
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=vierkzme&theme=tokyonight)
+
+### ⏳ GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vierkzme&theme=tokyonight)
+
 
 ---
 
