@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Hello+I+am+vierkzme;Frontend+Developer;React+%7C+Tailwind+%7C+Next.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Hello+I+am+Ardy+Nugroho;Full-Stack+Developer;React+%7C+Tailwind+%7C+Next.js" />
 </p>
-
-
-# 🚀 Hi there, I'm Ardy Nugroho!
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a strong foundation in:
 
