@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Hello+I+am+Ardy+Nugroho;Full-Stack+Developer;React+%7C+Tailwind+%7C+Next.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Hello+I+am+Ardy+Nugroho" />
 </p>
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a strong foundation in:
+Welcome to my GitHub profile! I'm a passionate **Developer** with a strong foundation in:
 
 * 🌐 Frontend: HTML, CSS, JavaScript, ReactJS, Tailwind CSS
 * ⚙️ Backend: Node.js, Express.js, Python
