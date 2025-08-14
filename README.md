@@ -48,7 +48,7 @@ I'm open to collaborative projects, contributions, and freelance opportunities. 
 
 * LinkedIn: [linkedin.com/in/ardy-nugroho-iv99/](https://linkedin.com/in/ardy-nugroho-iv99)
 * Email: [ardyiv99@gmail.com](mailto:ardyiv99@gmail.com)
-* Portfolio: [PixPort](https://pixport.vercel.app/)
+* Portfolio: [Ardy Nugroho]([https://pixport.vercel.app/](https://rdyngrh-portfolio.vercel.app/))
 
 ---
 
