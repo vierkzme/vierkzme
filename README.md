@@ -15,6 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=vierkzme&label=Profile%20Views&color=00FFAA&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/vierkzme?label=Followers&color=00FFAA&labelColor=161B22&style=flat-square" alt="Followers" />
     <img src="https://img.shields.io/github/stars/vierkzme?affiliations=OWNER&label=Total%20Stars&color=00FFAA&labelColor=161B22&style=flat-square" alt="Total Stars" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00FFAA?style=flat-square&labelColor=161B22" alt="Status" />
   </p>
 
   <!-- Contact Badges -->
