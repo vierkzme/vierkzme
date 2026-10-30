@@ -10,7 +10,14 @@
     Building clean, scalable web applications and data-driven solutions.
   </p>
 
-  <!-- Contact Badges (Fixed LinkedIn Logo via Base64 SVG) -->
+  <!-- Live Micro-Badges (Profile Views & Followers) -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=vierkzme&label=Profile%20Views&color=00FFAA&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/vierkzme?label=Followers&color=00FFAA&labelColor=161B22&style=flat-square" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/vierkzme?affiliations=OWNER&label=Total%20Stars&color=00FFAA&labelColor=161B22&style=flat-square" alt="Total Stars" />
+  </p>
+
+  <!-- Contact Badges -->
   <p align="center">
     <a href="https://rdyngrh-portfolio.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFAA&labelColor=161B22" alt="Portfolio" />
@@ -43,18 +50,10 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
 <div align="center">
-
-  <!-- Stats & Streak Side-by-Side (Using Active Mirror Server) -->
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vierkzme&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFAA&icon_color=00FFAA&bg_color=1A1B27" alt="GitHub Stats" />
-  <img height="165em" src="https://streak-stats.demolab.com?user=vierkzme&theme=tokyonight&hide_border=true&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&background=1A1B27" alt="GitHub Streak" />
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img height="145em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vierkzme&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFAA&bg_color=1A1B27&langs_count=6" alt="Top Languages" />
-
+  <img height="170em" src="https://streak-stats.demolab.com?user=vierkzme&theme=tokyonight&hide_border=true&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&background=1A1B27" alt="GitHub Streak" />
 </div>
 
 ---
